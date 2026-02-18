@@ -1,0 +1,1201 @@
+189-887-7672 http://regexlab.edu/a/173 taylor@regexlab.org
+http://university.com/a/104
+588-371-8688
+ok
+ok
+http://www.example.net/c/278 sam@university.com
+700-190-6955 https://www.university.com/c/304
+281-257-9788 https://www.example.org/b/207 sam@regexlab.net FLAG #IT
+http://example.net/a/340 kay@example.edu FLAG
+http://datahub.com/c/68
+https://datahub.edu/c/132 #WINS
+121-457-8368
+https://www.regexlab.com/c/753 taylor@regexlab.com
+507-144-9200 http://www.example.org/b/588 taylor@regexlab.com
+ok
+952-948-8964 http://www.example.net/b/722
+jordan@university.edu
+925-163-7794 https://www.university.edu/a/953 sam@regexlab.com NOTICE
+883-823-6319 https://university.edu/a/981
+http://university.org/b/557 taylor@datahub.edu
+https://www.regexlab.net/a/714
+144-721-1212 http://www.example.edu/c/179
+https://www.example.net/c/568
+https://www.example.net/c/456
+jordan@example.net FLAG
+352-848-8137
+627-126-6923 kay@datahub.net #STAY
+https://www.datahub.com/b/958 FLAG
+499-148-2732
+https://www.university.org/b/153 Unknown #TODAY
+305-777-7630 http://www.university.com/a/694 kay@datahub.org
+109-398-6363 jordan@example.com
+670-911-1013
+530-668-7025 http://example.edu/b/330 NA #KEEP
+836-288-6335 http://www.university.com/a/220
+sam@example.org #REGEX
+224-175-6916 https://datahub.edu/b/104 #CURIOUS
+437-393-6053 http://www.example.com/c/113
+jordan@university.com #TIDY
+967-185-3861 kay@regexlab.com
+154-753-9906
+jordan@university.org
+http://www.example.net/c/998 taylor@university.edu
+647-418-1511 http://www.example.com/b/826
+https://www.example.com/a/165
+622-530-5312 http://www.example.org/c/787
+917-947-8854 https://regexlab.edu/c/791
+483-153-2586 https://datahub.com/c/642 taylor@university.org
+638-874-4796
+ok
+204-846-1864 #WINS
+http://www.datahub.net/c/694 jordan@regexlab.edu
+864-969-8739 http://university.com/b/464 alex@example.edu
+ok
+http://datahub.net/b/664 #IT
+alex@example.org NOTICE
+611-165-4087 http://university.net/a/415 taylor@university.com ALERT
+986-166-7918
+http://university.net/c/350 alex@regexlab.org
+309-923-5702 https://www.regexlab.net/b/241
+346-817-8796
+https://regexlab.net/c/945 kay@university.com
+alex@datahub.net
+taylor@datahub.net
+http://www.regexlab.org/a/997
+jordan@example.edu
+262-890-6456 #TODAY
+572-545-3818 http://www.example.net/a/253
+ok
+http://university.org/c/611 #STAY
+https://www.example.net/c/794
+735-542-2277 sam@regexlab.org
+828-192-7718
+417-198-8387 sam@datahub.net
+606-591-6747 http://www.regexlab.edu/b/597
+http://www.datahub.org/c/701 kay@datahub.org
+686-475-7479 alex@datahub.net #REGEX
+925-830-6248 kay@regexlab.net ALERT
+http://www.datahub.org/a/669 kay@university.com
+http://www.datahub.net/c/319
+https://www.example.org/a/485 #REGEX
+jordan@datahub.org Unknown FLAG
+http://university.org/c/647 jordan@example.org
+651-938-7407 http://www.example.edu/c/248 #DATA
+876-968-1686 sam@example.org
+taylor@regexlab.org
+ok
+636-166-3177 https://www.regexlab.net/c/514 FLAG
+http://datahub.net/b/776 alex@example.org
+http://university.com/c/328 #REGEX
+435-330-6861
+569-900-2799 http://www.university.com/a/742
+869-352-8247 http://www.university.edu/c/151
+alex@university.com
+https://www.datahub.org/a/261 sam@regexlab.com NOTICE
+999-218-4916 alex@regexlab.com
+->KEEP<- https://datahub.net/b/49 alex@example.com
+taylor@datahub.edu
+ok
+984-557-1298 taylor@example.edu
+229-575-3258
+kay@regexlab.org
+195-582-5064 http://regexlab.edu/c/786
+#TIDY
+787-572-2988 jordan@example.com
+423-803-8160 http://www.university.edu/b/800 Unknown
+172-314-4569 sam@datahub.edu NOTICE
+847-933-8354 taylor@example.org
+899-157-4867
+https://www.datahub.net/a/32
+ALERT
+ok
+taylor@regexlab.org
+ok
+512-968-3281 https://regexlab.org/a/797 taylor@university.edu
+https://example.net/b/237 kay@example.net #TODAY
+ok
+393-872-4065 taylor@regexlab.net FLAG
+ok
+http://www.example.net/c/99 alex@example.net
+417-778-6997 jordan@regexlab.org
+390-498-1487 NOTICE
+https://www.datahub.edu/b/915 kay@regexlab.org
+jordan@regexlab.net NOTICE
+http://regexlab.edu/b/895
+789-745-3920 jordan@regexlab.org
+ok
+https://university.com/c/640
+605-170-5489 http://www.university.edu/a/994 FLAG
+547-213-8072 https://www.datahub.com/a/545 alex@example.org #TODAY
+490-453-4016 http://datahub.com/b/635 #CURIOUS
+http://university.net/a/63 jordan@example.net
+ok
+http://www.university.net/c/994 taylor@university.edu
+755-163-7254 sam@regexlab.edu
+kay@university.net
+ok
+343-307-2245
+http://datahub.net/b/73 alex@regexlab.com #KEEP
+http://www.example.edu/b/538
+317-649-2404 https://www.university.edu/c/856 ALERT
+http://www.university.com/b/448 alex@example.org
+https://university.edu/c/80 kay@regexlab.com
+486-235-3287 https://datahub.net/b/550 taylor@regexlab.edu
+859-896-7131 kay@example.org ALERT
+http://www.example.org/a/697 taylor@datahub.org
+478-963-4948 taylor@university.net #DATA
+taylor@university.edu NA
+491-849-1296 http://regexlab.edu/a/41 alex@datahub.net 999
+kay@regexlab.net
+https://regexlab.net/a/780 ALERT
+ok
+http://datahub.edu/b/14 alex@regexlab.org
+ok
+ok
+https://example.net/c/230
+858-544-7712 jordan@example.edu
+https://www.datahub.net/c/110 NOTICE #CLEANING
+kay@university.com
+661-307-7248 taylor@university.org
+176-855-7443 http://www.university.net/c/517 alex@university.edu #TIDY
+706-367-1606 http://datahub.org/c/874 taylor@example.org
+#DATA
+#CLEANING
+955-195-2763 https://university.net/a/817 alex@datahub.org
+808-896-7952
+sam@university.edu NOTICE
+taylor@datahub.org #CURIOUS
+589-448-4731 https://regexlab.org/b/901
+731-959-2980
+335-335-7910 https://www.university.edu/a/692 NOTICE
+100-522-5201 kay@example.edu #CLEANING
+->IT<- 594-818-9691
+#TODAY
+https://www.datahub.net/a/683 taylor@regexlab.net
+http://example.com/b/553
+164-738-2415
+290-646-6931 https://www.datahub.edu/a/897 jordan@regexlab.org
+311-824-9468
+ALERT
+109-326-7386
+sam@regexlab.org
+854-574-2545 FLAG
+441-541-4149 http://www.datahub.net/c/839 taylor@datahub.org
+#TODAY
+#WINS
+272-941-4683 jordan@example.com
+917-145-5137
+http://www.datahub.org/a/525 kay@regexlab.edu
+394-427-3732 http://university.org/b/551 kay@datahub.org
+574-121-8367 http://www.university.com/c/977 #REGEX
+https://www.datahub.org/b/697 taylor@regexlab.org Unknown #CLEANING
+741-269-9236 http://datahub.net/c/948 Unknown
+http://example.edu/a/973
+880-483-1193 http://regexlab.edu/a/415 alex@datahub.edu
+http://www.example.com/c/400 #CLEANING
+454-150-5668 http://university.com/c/479 ALERT
+ok
+kay@example.edu #STAY
+625-956-2522 https://university.net/c/335
+http://www.regexlab.org/a/949
+636-645-6029 http://www.datahub.org/c/468 NOTICE
+http://university.com/c/809
+https://www.university.com/c/713 sam@example.net
+228-895-8323 NOTICE
+http://www.example.com/a/381 kay@datahub.org NOTICE
+300-552-4308 http://www.example.net/a/803
+835-365-1608 https://www.datahub.edu/c/316
+626-668-6926 jordan@regexlab.net 999
+https://university.com/a/130 ALERT
+ok
+569-119-8764 https://example.net/c/910 alex@university.edu
+442-407-3386 https://www.example.com/a/432 FLAG #DATA
+268-647-7363 http://www.example.com/b/25 sam@university.edu
+kay@university.net
+https://www.example.edu/b/824 sam@regexlab.com #TODAY
+jordan@datahub.net
+http://datahub.org/a/48
+929-521-8626 taylor@university.edu FLAG
+https://datahub.org/c/25 sam@university.edu
+http://www.regexlab.org/c/978 sam@datahub.com
+ok
+http://www.regexlab.org/a/821 sam@regexlab.org
+317-898-4306 #CLEANING
+280-492-2461
+https://example.net/a/579 sam@regexlab.edu
+jordan@university.org #IT
+839-786-7046 https://example.net/b/115 NOTICE #TIDY
+ok
+http://www.example.com/c/856 taylor@datahub.net
+http://university.com/b/679
+867-597-4192 https://www.example.com/b/26 taylor@datahub.org
+https://university.com/c/469
+kay@regexlab.com NOTICE #IT
+570-663-5555 https://www.university.net/c/704 jordan@datahub.edu #TIDY
+jordan@regexlab.net #IT
+alex@university.com NA FLAG
+313-922-7759 http://www.regexlab.com/c/62 taylor@regexlab.org
+sam@example.com
+271-738-2211 https://www.example.org/b/34 ALERT
+745-166-2672 999
+alex@regexlab.edu
+https://www.example.org/c/708 kay@university.com 999
+843-642-1250 kay@example.com
+462-462-1297 https://example.com/b/998 kay@example.com
+sam@datahub.net
+562-320-7903 https://www.regexlab.edu/b/569 alex@university.org
+https://www.datahub.net/c/445 taylor@regexlab.com
+sam@datahub.net NOTICE
+708-367-3412 http://www.regexlab.net/c/830 #DATA
+->TIDY<- kay@university.com
+964-696-1448 https://regexlab.net/b/75
+640-245-2642
+989-517-2258 sam@example.net #STAY
+800-145-4105
+#REGEX
+588-558-9053 http://www.regexlab.org/a/960 kay@university.edu
+NOTICE
+http://example.net/c/769
+https://www.datahub.com/a/855 jordan@datahub.com #TODAY
+988-493-8164 jordan@regexlab.edu
+https://example.com/a/940 alex@datahub.net
+682-352-3247 jordan@datahub.com
+883-200-9613
+taylor@university.edu
+709-326-8361 sam@example.net
+492-994-8164 kay@university.org
+http://example.com/c/371 alex@university.edu
+http://university.edu/c/108 sam@regexlab.org NOTICE
+kay@regexlab.edu
+#TODAY
+684-351-3311 alex@regexlab.net #KEEP
+764-695-2787 http://www.regexlab.net/c/503 sam@university.net
+ok
+120-243-4575 http://regexlab.org/b/923 FLAG
+415-870-8113 https://datahub.org/b/795
+http://www.example.org/a/966
+161-179-1238 https://www.university.org/b/727 ALERT #STAY
+390-683-2656 https://university.org/b/698
+859-127-9836 #DATA
+667-490-2951
+ok
+979-507-9917 https://university.net/c/25
+ok
+#STAY
+https://university.net/a/227
+#REGEX
+879-436-1904 http://www.datahub.org/c/479 sam@university.org
+http://www.university.net/b/753 #DATA
+440-528-4413 sam@example.net
+taylor@university.com
+828-311-6210 https://datahub.org/b/278
+http://regexlab.com/b/934 kay@example.org FLAG
+alex@university.edu #KEEP
+http://www.university.net/a/521 sam@example.org FLAG #CLEANING
+598-436-6635 Unknown
+704-103-5235 #TIDY
+342-688-4542 http://www.university.com/b/577
+295-776-6760 NOTICE
+https://datahub.org/a/616 alex@example.com
+http://www.datahub.com/a/646 kay@university.edu
+374-972-3404 jordan@university.edu
+https://www.datahub.edu/b/902 taylor@datahub.edu
+845-115-2138 jordan@university.org
+ok
+634-878-3540 alex@university.edu
+https://datahub.org/a/791 #CLEANING
+851-870-5269 sam@datahub.org
+ok
+411-894-3833
+https://datahub.net/b/412 NOTICE
+938-716-3883
+https://www.example.net/b/692
+196-467-2177 #DATA
+sam@regexlab.edu
+487-579-5149 https://www.university.net/c/131 sam@example.com Unknown
+taylor@datahub.net
+847-555-3780
+http://www.regexlab.edu/a/805 #REGEX
+kay@datahub.net
+ok
+https://www.regexlab.com/c/952 taylor@example.org
+983-411-7219 https://www.university.org/a/957
+kay@regexlab.edu
+http://www.regexlab.net/a/179 alex@regexlab.com NOTICE
+http://www.regexlab.org/c/160 sam@datahub.edu #TIDY
+#TODAY
+522-356-1646 taylor@university.edu
+500-754-4619 jordan@university.net
+taylor@datahub.org
+711-929-4255
+101-933-5456 taylor@example.org Unknown
+896-437-8988 http://regexlab.org/c/601
+684-558-6245
+213-287-6949 kay@example.net #WINS
+https://www.regexlab.net/b/703 #TIDY
+ok
+ok
+321-809-9954 http://www.datahub.edu/b/12
+http://datahub.net/a/594 kay@university.net
+702-588-3305 http://www.example.org/a/34
+210-265-2167 kay@regexlab.edu
+https://www.regexlab.edu/c/835
+996-699-9014
+883-613-3279 http://www.datahub.edu/a/501 taylor@example.edu NA #IT
+http://www.datahub.net/a/898 kay@example.edu #KEEP
+kay@regexlab.net NOTICE
+732-709-3641
+412-397-2096 http://example.com/c/487
+674-839-8450 kay@datahub.org
+198-692-3570 FLAG #REGEX
+568-349-3694
+https://www.university.org/b/967 #TODAY
+http://www.regexlab.net/c/954 taylor@example.net #TODAY
+https://www.regexlab.com/b/735
+546-585-2975 https://www.university.net/c/511
+https://datahub.org/b/451 taylor@datahub.edu
+939-171-4397 sam@university.org
+#IT
+675-561-9172 http://datahub.com/c/942 alex@university.com
+181-971-1270 https://university.net/c/113 sam@example.com
+ok
+371-986-1730 https://www.example.net/b/320
+https://regexlab.edu/a/323
+981-309-5706 jordan@example.edu
+#WINS
+627-991-1736 https://www.example.com/c/890 ALERT
+sam@datahub.com
+278-813-3125 https://www.regexlab.com/c/50
+https://www.example.edu/a/751
+801-820-4210 alex@example.org
+918-231-1143 http://www.university.org/b/942 alex@example.edu #WINS
+126-135-1763 #IT
+alex@datahub.com
+642-574-9356 http://regexlab.edu/c/729
+ok
+555-220-9279
+kay@university.net
+sam@regexlab.net
+577-108-2882 jordan@university.org
+149-482-2659 http://regexlab.org/b/961 alex@datahub.edu
+NOTICE #IT
+sam@datahub.com
+742-858-6316
+http://www.example.org/c/280 NOTICE #KEEP
+601-447-5176 http://regexlab.org/b/279 alex@example.com
+https://example.org/a/237
+sam@university.com #TIDY
+280-956-3240 taylor@example.edu #WINS
+923-723-9582
+http://example.net/c/808 sam@datahub.edu
+878-818-4993 http://www.datahub.org/a/644 jordan@datahub.com #STAY
+ok
+http://www.datahub.org/a/438 jordan@university.net FLAG #TODAY
+237-710-1364
+ok
+#CLEANING
+153-890-3570 http://www.example.net/c/136 sam@university.net #WINS
+alex@datahub.edu NOTICE
+692-724-7020 http://example.net/a/174
+118-167-8856
+https://university.net/c/650 sam@university.org
+http://www.regexlab.edu/b/403
+566-636-8866 http://www.university.org/c/540 FLAG
+977-256-4353 https://university.edu/c/20
+161-207-6961 jordan@regexlab.edu
+749-470-8709 taylor@regexlab.edu
+679-682-9476 https://www.datahub.net/c/226 sam@university.org ALERT
+ok
+https://www.example.net/b/903
+873-530-6607 ALERT
+https://regexlab.com/b/934 jordan@university.com
+https://example.org/a/74 alex@datahub.net
+598-363-8956 https://university.edu/c/999
+223-659-4601 https://www.example.org/b/420 taylor@university.edu
+https://example.edu/a/537
+ok
+ok
+994-625-4870
+http://www.university.com/a/302 #CLEANING
+http://www.example.net/c/249
+489-868-6146
+595-932-7252 jordan@regexlab.org ALERT
+ok
+#DATA
+http://university.edu/c/244 alex@example.net
+581-128-6919 http://www.datahub.edu/c/221 ALERT #STAY
+944-179-6842 sam@example.edu
+755-762-9215
+383-578-3546 http://www.university.edu/c/72
+ok
+https://regexlab.net/a/679 NA
+ok
+928-903-8213 http://www.datahub.org/a/35 sam@datahub.org
+789-836-3897 https://example.edu/c/241 taylor@university.edu
+375-504-8641 https://example.com/a/846
+622-941-3209 taylor@regexlab.net #TODAY
+http://regexlab.edu/c/31 alex@regexlab.net
+jordan@regexlab.net
+507-750-1635 http://university.net/c/322 alex@example.edu
+864-858-6086 https://www.university.net/b/828
+142-762-8133 taylor@example.com
+422-460-5096
+jordan@datahub.org
+sam@regexlab.org
+http://datahub.edu/b/238 #CURIOUS
+NA
+ok
+974-827-6474 https://university.net/a/937
+369-664-4384 https://example.edu/a/99 sam@datahub.com
+422-104-1127 #TODAY
+https://www.regexlab.com/b/817
+491-311-7307
+806-256-3422 alex@university.edu
+596-930-2678 http://regexlab.edu/b/850 sam@example.net
+549-972-8485 sam@university.com
+459-811-5653 alex@datahub.org
+311-809-6152 taylor@example.org FLAG #DATA
+837-974-4079 http://www.university.net/b/95 sam@datahub.edu
+793-273-7106 https://example.com/a/466 #STAY
+299-896-2533
+890-610-2798 http://www.university.edu/a/404 sam@datahub.org
+655-586-1919 sam@example.com
+434-214-9242 https://www.university.org/c/566 sam@datahub.com
+153-829-4838 https://university.com/c/201 alex@datahub.net
+kay@regexlab.net
+364-176-5556 http://www.datahub.com/a/555 jordan@university.com
+578-235-7448 http://www.datahub.com/a/670 kay@datahub.edu
+https://www.example.edu/b/906
+197-183-7565 sam@university.net
+740-144-1576
+909-939-2182 https://university.com/b/947
+http://www.example.org/a/980
+794-367-8756
+820-299-4685 taylor@university.edu
+636-850-7286 jordan@university.org
+https://www.regexlab.com/a/160
+taylor@example.com
+694-500-7279 Unknown FLAG #CLEANING
+254-739-9529 https://regexlab.com/a/621
+217-362-2637
+taylor@university.edu
+440-114-7074 http://www.regexlab.com/c/717
+jordan@university.com
+http://regexlab.edu/a/585 #TODAY
+taylor@university.com
+773-155-9097 FLAG
+304-149-2686 https://university.com/a/675 sam@regexlab.org
+220-852-8775 jordan@example.org
+ok
+alex@example.com
+883-914-9209 https://university.org/b/14 taylor@university.net
+sam@datahub.edu
+513-639-8904 https://datahub.net/b/309
+612-886-1443 https://example.edu/c/128
+alex@example.edu
+279-749-3204 http://www.example.org/a/745 #CLEANING
+452-166-4960
+557-936-8734 NOTICE
+ok
+185-239-3033 https://university.com/b/35 #STAY
+http://www.university.org/b/281 taylor@university.net
+572-683-6761 https://www.datahub.com/c/550
+635-372-8992 http://www.example.edu/c/722
+ok
+kay@example.edu 999
+342-972-8534 http://university.edu/a/290 taylor@regexlab.net 999 #CLEANING
+792-816-4874
+836-313-1133 https://www.datahub.net/c/919 kay@example.com
+alex@example.edu
+484-369-3410
+681-325-3705 https://www.datahub.org/b/373
+192-274-9309 kay@datahub.net #IT
+taylor@university.edu
+http://example.org/a/306 alex@datahub.edu
+889-628-3640
+https://regexlab.edu/a/854 jordan@regexlab.edu 999
+123-645-7993 http://regexlab.com/c/398 alex@regexlab.edu Unknown
+sam@regexlab.org #REGEX
+jordan@university.org NOTICE
+599-929-2449 https://www.university.com/c/753
+919-533-8832 taylor@university.edu FLAG
+alex@regexlab.com #WINS
+https://www.regexlab.edu/a/139
+507-871-2229 taylor@regexlab.edu
+361-802-3802 jordan@regexlab.net
+547-360-7280 taylor@regexlab.net
+ok
+ok
+taylor@university.net
+683-903-2558 http://www.university.edu/a/372 alex@university.org
+taylor@university.net
+883-559-8059
+kay@regexlab.edu
+406-753-3247 jordan@regexlab.com #TODAY
+jordan@regexlab.edu NOTICE
+http://www.datahub.com/a/119 alex@datahub.edu
+https://example.net/c/847 #WINS
+953-542-1271 #TODAY
+639-502-1443
+544-157-9576 https://www.regexlab.com/c/923 taylor@example.org
+553-407-2032 jordan@university.edu
+jordan@regexlab.edu
+550-965-1734 http://example.com/a/65
+taylor@regexlab.com
+309-175-9035 https://example.edu/c/366 ALERT
+797-168-9287 https://www.datahub.com/c/712
+832-577-2048 #STAY
+ok
+http://university.edu/b/685 sam@datahub.edu
+https://example.com/a/564
+ok
+alex@university.com Unknown
+http://example.net/a/160 taylor@datahub.net
+280-440-7368 https://www.regexlab.org/c/683
+http://datahub.com/a/210 kay@university.edu #TODAY
+310-690-3532 https://university.net/b/236 alex@university.org
+http://www.example.net/a/646
+911-981-5746
+http://example.org/a/993
+895-968-1831
+882-942-6255 https://example.net/a/908 alex@regexlab.com
+ok
+http://www.regexlab.net/c/453
+http://regexlab.com/a/836 kay@example.edu
+https://regexlab.com/a/869
+673-621-6208 NOTICE
+590-577-7147
+sam@regexlab.org 999
+https://www.example.net/b/219 kay@regexlab.net
+876-640-7268 jordan@datahub.com
+898-437-7426 https://university.org/c/886 #STAY
+140-798-6896 kay@datahub.com Unknown ALERT
+ok
+187-114-2889 alex@example.edu
+ok
+143-421-8487 NA
+ok
+954-371-9377 https://regexlab.com/c/743
+752-894-9573 jordan@university.org
+523-755-5105 https://www.university.com/c/894
+911-867-8664 #CURIOUS
+alex@regexlab.org FLAG
+290-346-6812 sam@example.edu
+634-396-6377 taylor@university.com #STAY
+https://datahub.net/a/643
+412-753-7798 https://university.edu/c/688
+247-401-4570
+146-729-9153
+234-561-6074 https://example.edu/a/644 jordan@university.edu
+NOTICE
+906-395-2637 kay@example.net Unknown #TIDY
+824-263-9256 jordan@example.org
+kay@example.net
+http://www.datahub.org/c/618 kay@regexlab.com #STAY
+kay@regexlab.net #WINS
+ok
+#DATA
+https://www.university.net/c/260
+https://www.datahub.com/a/199 jordan@university.net
+131-485-1845 sam@example.com
+sam@example.org NA
+619-822-9199 alex@university.net 999
+ok
+https://www.datahub.com/a/561
+ok
+http://example.edu/b/659 NA
+603-855-4456 https://www.example.net/c/705
+https://university.com/a/307 999
+https://www.university.net/b/157 kay@datahub.com
+https://example.net/a/630
+ok
+218-780-1155 NOTICE
+https://regexlab.com/c/776
+ok
+http://example.com/a/24 NA #WINS
+https://www.regexlab.edu/a/214
+sam@regexlab.com
+http://regexlab.com/c/498
+470-961-9420
+https://regexlab.com/b/740 taylor@datahub.org
+http://regexlab.net/a/127 jordan@example.edu
+https://example.org/a/728
+239-870-9958 sam@datahub.edu #STAY
+ALERT
+ok
+655-455-9745 https://www.example.net/c/488 jordan@example.org
+384-841-3726 http://example.net/c/278 #DATA
+http://university.com/b/959
+https://www.datahub.net/a/378 NA
+364-923-6827 http://www.datahub.com/b/78 kay@datahub.edu #CLEANING
+ok
+116-768-9964 http://example.net/a/54 alex@datahub.com
+kay@regexlab.com
+188-851-4773 alex@datahub.net
+141-753-5777 http://www.datahub.net/b/145 kay@university.org
+806-883-9187 https://www.datahub.com/c/153 #CURIOUS
+http://example.org/b/477
+https://www.datahub.com/b/573 alex@datahub.net
+819-593-6538 #KEEP
+382-691-4827 alex@example.org
+https://university.net/c/881 NA
+http://example.edu/a/51
+503-913-9981 http://www.example.edu/b/94 kay@example.org
+ok
+https://www.university.edu/c/139
+http://www.university.net/c/136
+https://datahub.edu/b/848 #TIDY
+548-736-1321 taylor@example.edu
+http://www.example.edu/b/630 alex@university.com
+255-103-1058 http://university.com/a/654 sam@university.org
+https://example.net/b/91 taylor@university.edu
+https://datahub.com/c/873 Unknown #REGEX
+https://regexlab.com/a/762 alex@regexlab.com #TIDY
+https://www.example.net/c/89 jordan@example.org
+https://www.university.edu/c/867 kay@regexlab.com
+666-198-2406 https://www.university.edu/a/447 taylor@example.edu #CLEANING
+787-454-8253 http://university.edu/b/122
+ALERT
+347-696-8718 jordan@university.edu #CURIOUS
+https://regexlab.edu/b/157 taylor@university.edu #WINS
+533-840-3027 http://datahub.net/a/33
+http://www.example.edu/b/123
+ALERT
+taylor@datahub.com
+665-337-7223
+341-360-2583 http://www.university.org/c/113 taylor@university.net
+790-728-3959 taylor@university.edu
+http://www.datahub.com/a/398 FLAG
+ok
+678-256-7745 http://www.university.com/c/438
+494-107-4924
+955-153-5436
+jordan@university.edu
+ALERT
+138-252-6352 http://www.university.com/c/355 kay@regexlab.edu #CURIOUS
+257-113-3443 Unknown #CURIOUS
+https://www.datahub.net/b/839
+sam@example.com NOTICE #IT
+552-391-8407 jordan@university.net Unknown
+ok
+https://datahub.org/a/607 alex@regexlab.net
+734-577-2071 taylor@datahub.net
+https://www.example.com/b/123 sam@university.com 999
+858-327-2384 https://www.regexlab.org/b/364
+811-586-5727 taylor@example.org #IT
+735-478-3273
+175-592-9461 https://example.com/c/912
+975-608-3163 http://datahub.org/c/333 kay@university.org
+843-290-1910 kay@example.com
+http://www.university.net/a/719 #STAY
+631-288-9262 https://www.regexlab.com/c/296
+http://www.regexlab.org/a/41
+kay@datahub.edu
+ok
+860-769-3461
+https://university.com/a/296 sam@regexlab.net
+jordan@example.org
+ok
+508-315-8657
+ok
+http://university.edu/c/266 sam@university.org
+http://example.com/c/867
+ok
+935-484-2971 http://www.university.org/a/967 #TIDY
+233-505-3514 alex@regexlab.org NOTICE #TODAY
+233-399-5057 taylor@example.net #CURIOUS
+844-576-7016 https://datahub.net/c/45 alex@datahub.com #DATA
+848-273-2171 https://www.example.com/b/558 alex@regexlab.net
+738-343-4699 https://www.regexlab.edu/a/880 alex@datahub.net
+sam@example.com
+http://www.example.org/c/356 jordan@regexlab.org
+675-659-6571 https://www.example.org/c/55 kay@example.edu #CLEANING
+ok
+125-869-5770 http://www.example.org/b/771 #CLEANING
+https://datahub.edu/b/33 kay@regexlab.org #REGEX
+589-589-7896 http://example.org/a/280
+888-679-6680 http://www.regexlab.com/a/858
+993-624-1094 NOTICE #STAY
+ok
+alex@datahub.net
+945-195-7403 alex@university.com
+142-602-7049
+123-782-9556
+932-398-8517 http://www.datahub.net/c/316
+http://datahub.com/c/122
+678-460-9076 https://www.university.org/b/622 jordan@university.net NA
+https://datahub.com/a/725
+396-740-4655 http://regexlab.edu/b/667
+#REGEX
+547-891-9630 http://www.example.edu/b/656
+966-518-6679 taylor@datahub.org #KEEP
+544-224-8923 jordan@university.com
+195-826-1993 https://www.datahub.net/b/456 jordan@university.net NOTICE #STAY
+580-413-3431 http://www.university.org/a/956
+777-636-6348 http://example.edu/b/579 sam@regexlab.edu #DATA
+alex@university.edu
+407-976-4508 https://www.datahub.org/a/300
+https://datahub.net/b/112
+https://www.regexlab.net/c/806
+sam@example.org
+alex@regexlab.net
+491-775-6892 http://datahub.org/a/960 jordan@regexlab.com
+964-500-2337 https://www.example.net/c/773 jordan@regexlab.net
+http://regexlab.edu/b/885 taylor@university.edu
+619-971-9961 sam@datahub.org
+ok
+https://www.regexlab.com/b/981 kay@example.org ALERT
+290-520-4356 https://regexlab.org/a/696
+413-622-6458 FLAG
+https://datahub.com/a/78 kay@regexlab.com #TIDY
+715-923-6222 https://www.regexlab.net/b/952 taylor@university.net
+jordan@datahub.edu Unknown
+646-721-5168 alex@example.com
+811-709-2629 kay@datahub.net
+403-563-5795 taylor@regexlab.com
+465-753-2360 sam@regexlab.edu
+892-929-7917 http://example.org/c/243 sam@datahub.edu
+268-417-4819 #DATA
+422-950-3487 taylor@university.com
+841-378-8720 http://www.regexlab.net/b/17 kay@regexlab.com
+195-698-4823 http://www.example.edu/b/397
+592-868-2826 http://www.regexlab.edu/b/323 kay@regexlab.com
+sam@example.edu #TIDY
+http://www.example.org/a/161 jordan@datahub.com
+439-100-5267 alex@regexlab.edu FLAG
+kay@example.org
+296-189-9405 http://www.university.org/a/783
+ok
+alex@datahub.com
+345-720-2410 https://example.org/b/288 kay@datahub.net FLAG
+674-942-1114 sam@regexlab.net NOTICE
+https://www.datahub.edu/a/647 sam@example.org
+FLAG
+http://regexlab.net/c/949
+http://www.university.net/b/606
+ok
+jordan@university.org
+404-513-3753 https://www.datahub.edu/a/316 sam@datahub.org
+514-560-7437 jordan@example.net
+http://example.com/a/285 sam@datahub.edu #TIDY
+kay@university.edu
+582-536-1655 https://university.net/a/796 sam@example.edu
+https://university.net/c/171 taylor@regexlab.net Unknown
+http://university.net/a/650
+292-793-2233 https://www.datahub.edu/a/218 kay@university.com NA
+952-146-8456 http://regexlab.com/b/723 jordan@university.edu NOTICE
+http://www.university.net/b/261 jordan@university.net
+924-534-6609 http://datahub.com/c/479 sam@regexlab.com #CLEANING
+kay@example.edu
+http://regexlab.com/a/595 jordan@datahub.org
+jordan@example.org
+413-654-3107 http://www.university.edu/a/363 taylor@regexlab.org
+860-113-3197 ALERT #TODAY
+523-267-7038 https://example.com/c/144 NOTICE
+103-475-9530 https://www.datahub.net/c/34
+http://www.datahub.edu/a/94 kay@university.edu NA
+434-473-8077 kay@example.com NA
+ok
+811-147-2260 taylor@datahub.edu NOTICE
+500-124-7054 http://regexlab.net/b/865 kay@university.net
+158-516-4438 http://datahub.org/b/631 sam@datahub.org
+ok
+http://university.edu/a/866 jordan@regexlab.org
+https://www.datahub.org/a/173 kay@example.com
+796-397-8916 http://www.datahub.org/a/161 alex@university.edu
+Unknown
+ok
+ok
+#KEEP
+http://university.com/b/848 ALERT
+153-567-6785 https://regexlab.org/a/968 jordan@university.org Unknown
+https://university.net/c/729
+taylor@regexlab.org
+738-704-6556 http://www.example.edu/c/268 jordan@datahub.com NA
+443-637-2079 https://www.example.edu/b/468
+http://regexlab.net/c/69 alex@regexlab.edu
+838-335-3943 https://www.regexlab.edu/a/235 alex@regexlab.net NA
+377-927-6075 jordan@example.edu
+sam@regexlab.com #TODAY
+taylor@example.net
+http://datahub.net/a/962 taylor@example.edu
+https://www.example.net/c/879 sam@university.edu
+http://www.example.edu/c/615
+342-122-9563 #IT
+780-711-5292 http://www.datahub.com/c/555
+#IT
+265-478-8191 http://www.datahub.edu/c/557 jordan@regexlab.org #CLEANING
+ok
+ok
+991-324-7526 http://university.net/b/467 alex@regexlab.org
+kay@example.com
+899-131-5134
+ok
+http://datahub.net/a/757 #WINS
+117-982-1656 https://university.com/b/157
+NA
+313-634-5771 https://university.edu/b/784 alex@university.net
+287-810-3764
+174-371-7432 http://www.datahub.org/b/944 taylor@example.com ALERT #STAY
+https://www.datahub.edu/b/73
+115-383-2004 https://www.datahub.org/c/39 taylor@university.com NOTICE
+ok
+https://regexlab.edu/a/322
+kay@regexlab.org #DATA
+510-306-7886 https://regexlab.net/a/131 taylor@example.com #CURIOUS
+473-673-9486
+618-935-2238 sam@university.org
+https://datahub.edu/b/177
+693-345-3017 sam@datahub.org
+sam@example.edu
+https://www.university.edu/c/610
+329-503-5493 http://www.university.edu/a/147 #IT
+sam@regexlab.edu #DATA
+499-858-1267 https://university.org/c/532
+958-309-8150 alex@example.com
+http://www.datahub.edu/a/326 FLAG
+152-750-9935 http://www.datahub.edu/a/808 kay@example.edu 999
+https://regexlab.net/c/765
+ok
+491-489-7549
+470-197-5062 http://university.edu/b/905 alex@university.net
+NOTICE #DATA
+https://example.org/c/485 NA
+699-300-2859 #REGEX
+https://www.datahub.com/a/997 #DATA
+kay@university.org
+#WINS
+889-846-2327 http://www.example.com/a/102 #WINS
+987-259-2223 https://www.university.edu/c/890
+sam@university.org
+http://www.regexlab.edu/b/545 jordan@datahub.com Unknown
+482-584-4922
+ok
+385-161-4225 https://www.datahub.edu/b/234
+596-513-7998 alex@regexlab.net #TIDY
+ok
+307-222-4056 http://www.example.com/c/73
+212-713-8862 http://www.regexlab.net/b/181 alex@university.org
+http://university.com/a/321 #KEEP
+912-587-5275 alex@datahub.edu
+672-655-9090
+https://datahub.com/b/872
+348-875-6308 http://university.edu/c/732 taylor@university.edu #WINS
+https://www.university.net/c/769 jordan@datahub.org
+https://datahub.org/b/495
+468-333-2218 taylor@example.com
+http://example.com/a/890 jordan@university.com NOTICE #TIDY
+670-446-9649 https://www.datahub.edu/c/699
+666-857-6674 https://regexlab.net/b/266
+249-691-5878 kay@university.com #CLEANING
+ALERT
+791-880-5073 sam@regexlab.net
+462-966-1072 http://university.edu/c/343 jordan@university.com
+151-300-9808 https://university.org/a/760 jordan@regexlab.net
+https://www.university.org/b/688 NOTICE #CLEANING
+172-903-6306 https://example.com/b/210 jordan@regexlab.com
+ok
+http://datahub.com/c/17 #WINS
+ok
+https://www.university.org/b/529 #DATA
+379-294-6047 http://www.university.org/b/789
+307-318-7739 #WINS
+978-740-6730 http://example.com/c/650 sam@datahub.com #CLEANING
+173-678-3875 https://www.regexlab.net/b/106 jordan@regexlab.com
+207-371-9528 http://regexlab.org/c/740 kay@university.net
+http://datahub.edu/b/324
+158-338-3197 sam@regexlab.net
+171-693-9949
+127-815-5862
+520-310-9584 alex@example.edu
+https://www.example.org/a/177 kay@university.edu #TODAY
+taylor@university.org FLAG
+794-318-7146
+826-204-7934 999
+546-665-1460 https://www.datahub.com/b/987 jordan@example.net
+http://datahub.com/a/691 jordan@regexlab.net #TIDY
+https://www.university.com/a/564 alex@regexlab.org
+https://datahub.org/c/307 sam@datahub.org
+785-295-7189 http://university.edu/b/798 sam@datahub.com NOTICE
+784-769-6476
+FLAG
+426-742-3892 taylor@university.edu
+ok
+ok
+ok
+http://university.edu/c/854 kay@university.org
+275-305-9944
+http://university.edu/b/965
+866-682-4644 NA #DATA
+ok
+833-395-1481 kay@university.com #STAY
+579-105-2543 sam@datahub.org
+205-469-5101 kay@datahub.edu
+876-967-7071 sam@datahub.org #WINS
+242-369-8719
+ok
+504-296-3186
+999
+169-156-7743 kay@regexlab.edu
+https://example.edu/a/211 #CURIOUS
+830-942-6094 https://www.regexlab.com/b/161 sam@example.com
+109-275-1761 kay@datahub.edu
+https://regexlab.com/c/958
+616-368-6113 taylor@university.edu
+235-612-5611 https://example.net/a/212
+883-999-7022 #CURIOUS
+http://example.net/c/488 kay@datahub.org
+ok
+705-379-3368 https://www.example.net/c/304 taylor@regexlab.com
+http://www.regexlab.org/a/735 jordan@regexlab.edu
+ok
+303-278-9971 alex@example.com
+856-743-3516 https://university.org/b/205 jordan@example.net #TIDY
+454-449-5127
+904-866-9445
+344-771-7093 sam@datahub.com NA #REGEX
+475-467-1159 jordan@example.net
+#CLEANING
+911-865-6242 jordan@datahub.edu
+http://university.com/a/95 #KEEP
+221-401-7756
+904-712-6340 http://www.example.org/a/165 kay@example.org
+https://www.datahub.edu/b/980 jordan@datahub.edu #WINS
+sam@regexlab.com
+758-703-8425 http://datahub.org/a/304 alex@example.net #TIDY
+taylor@example.com
+taylor@example.org
+337-604-4269 http://www.university.net/c/333 NOTICE
+164-553-7003 http://www.datahub.edu/c/822 kay@regexlab.org
+ok
+https://www.datahub.org/a/777 alex@example.org FLAG
+303-686-3546 https://www.university.com/c/914
+https://www.example.com/a/847 #WINS
+438-686-6403 jordan@university.edu
+https://regexlab.edu/c/140 #CURIOUS
+https://www.university.net/a/306
+449-183-5099 taylor@example.org
+http://university.org/b/384 alex@regexlab.org #CLEANING
+#WINS
+http://www.university.net/b/805 taylor@example.edu
+ok
+629-924-5139
+sam@regexlab.net #KEEP
+630-534-6685 sam@example.edu #DATA
+http://datahub.com/a/870 #KEEP
+https://www.regexlab.org/a/706 kay@example.com ALERT
+566-695-1421
+300-234-7868
+https://regexlab.net/b/587
+211-429-8765 kay@example.org #TIDY
+535-747-2628 #REGEX
+https://www.datahub.org/c/689 #IT
+137-175-2786 sam@regexlab.com
+https://datahub.com/a/852 kay@regexlab.edu
+taylor@example.com
+123-462-5001 https://www.example.edu/c/102
+ok
+https://www.regexlab.com/b/980 alex@university.edu #KEEP
+http://www.datahub.com/b/447 #TODAY
+taylor@example.com ALERT
+118-684-4224 taylor@regexlab.com
+572-654-9943 https://www.datahub.com/b/178 #CURIOUS
+http://university.org/b/972 jordan@regexlab.edu
+264-811-1011 http://regexlab.com/a/479
+445-590-8483 http://university.edu/c/900
+https://www.university.edu/b/788 jordan@university.org
+708-550-8688 http://example.com/c/670 #DATA
+515-853-2745 ALERT
+alex@datahub.net NA #TODAY
+108-618-3615 kay@example.org
+666-419-8915 jordan@university.edu #CURIOUS
+744-355-4776
+ok
+http://www.datahub.com/b/117
+561-920-5571 http://www.regexlab.net/a/73
+139-639-9457 http://www.university.edu/c/21 #TODAY
+Unknown #IT
+772-701-6423 NA
+alex@university.net #CURIOUS
+811-967-9537 jordan@regexlab.net
+848-709-1362 kay@regexlab.edu
+https://datahub.net/b/320 kay@university.net #CURIOUS
+571-702-6968 http://regexlab.net/b/657
+992-515-7826 http://www.datahub.net/a/127
+446-277-2301 http://www.university.com/a/287 NOTICE
+602-394-7041 #STAY
+574-425-2363 https://www.university.com/c/642
+ok
+alex@university.org
+https://www.regexlab.net/c/248 sam@regexlab.com #KEEP
+http://example.net/b/939 taylor@regexlab.edu
+http://www.example.com/c/819
+706-713-8417 taylor@university.edu
+alex@university.net
+345-428-6240 taylor@example.net
+842-927-5917
+605-890-5311 alex@regexlab.com
+ok
+http://www.datahub.org/c/518 taylor@example.net
+https://www.example.edu/a/886 jordan@datahub.net #REGEX
+808-976-4608 alex@example.net
+655-405-5499 kay@regexlab.com
+131-399-3504 https://www.datahub.net/b/983 #CURIOUS
+856-244-4604 #STAY
+sam@regexlab.edu
+454-576-2998 kay@regexlab.com #REGEX
+628-455-3562 #WINS
+http://regexlab.net/a/380
+703-551-2784 https://example.net/c/331 kay@example.edu #CLEANING
+https://example.net/b/908 alex@regexlab.com
+877-278-6495 http://regexlab.org/b/613
+https://regexlab.net/b/704 kay@datahub.com FLAG
+424-768-4326 http://www.university.net/c/820
+859-337-4752 kay@university.net
+https://www.university.edu/c/396 kay@university.edu
+139-700-6026 http://www.example.com/b/152
+ok
+taylor@university.net
+619-806-1453 https://www.example.edu/c/692 jordan@university.net Unknown
+856-478-9620
+http://www.datahub.net/a/564
+https://example.com/c/506 sam@example.edu #IT
+690-741-7830 http://www.datahub.net/c/985
+https://www.university.edu/b/305 taylor@datahub.net
+675-870-6053 http://regexlab.net/a/477 alex@regexlab.org
+http://regexlab.edu/a/108 sam@datahub.edu
+taylor@university.net
+769-298-7741 https://www.university.org/b/712
+https://www.regexlab.net/a/258
+jordan@datahub.edu
+663-184-5107 http://www.datahub.org/c/32
+ok
+528-605-4866 jordan@university.edu
+#TIDY
+ok
+http://www.regexlab.org/b/401
+Unknown #STAY
+#IT
+523-470-9438 http://www.example.edu/a/489 alex@datahub.com ALERT
+jordan@university.org
+843-640-1109 https://www.datahub.org/c/740 taylor@university.edu FLAG
+751-352-3170 sam@university.net
+728-748-2378 http://regexlab.edu/a/376 jordan@example.edu
+754-653-2951 taylor@university.edu
+http://example.org/c/871 ALERT
+ALERT #REGEX
+ok
+387-109-4074 https://regexlab.edu/c/84 NOTICE
+http://university.edu/b/586 alex@datahub.org
+alex@regexlab.org #TODAY
+998-679-2061 http://example.edu/b/903 999
+564-887-7864 http://www.university.edu/c/28 #DATA
+799-637-3316
+https://www.example.com/b/834 #KEEP
+240-104-5681
+848-850-5763 http://www.university.net/b/510 taylor@university.net
+https://www.regexlab.org/b/579 kay@university.com
+308-269-9789 sam@regexlab.net
+368-635-5943 http://www.example.edu/c/85 alex@datahub.org
+470-729-6648 sam@example.net #CLEANING
+ok
+638-558-5267 http://example.edu/a/855 taylor@example.org
+496-826-4214
+557-689-6267
+231-623-9361 http://www.university.net/b/350
+https://www.datahub.com/c/672 kay@regexlab.com #DATA
+http://www.example.org/b/535 sam@regexlab.com
+633-817-3654 https://www.datahub.com/a/416 alex@university.net
+791-763-7969 #DATA
+716-683-1581 https://www.regexlab.net/c/996 jordan@example.edu
+924-840-8044 alex@university.net #REGEX
+857-274-3269 #CURIOUS
+ok
+785-838-8392 https://datahub.com/a/141 sam@university.com
+kay@datahub.edu Unknown #STAY
+taylor@example.com
+489-999-3007 999
+498-444-4872 https://www.regexlab.org/b/555 #KEEP
+jordan@regexlab.net NOTICE #CURIOUS
+ok
+206-909-5369 http://www.example.net/c/209
+764-717-7374 https://university.net/b/61
+https://www.example.net/a/722
+278-117-9346 http://www.example.net/b/202 alex@university.edu
+kay@regexlab.net
+ALERT
+253-490-7256 jordan@example.net
+alex@university.org
+466-140-4081 http://university.net/c/835 kay@datahub.edu #DATA
+680-469-2084 https://example.com/b/929 sam@university.edu
+#TIDY
+sam@university.net #IT
+https://university.net/b/899
+423-784-9109
+https://www.datahub.org/a/379 taylor@regexlab.org
+685-507-4439
+https://regexlab.org/c/555 Unknown
+489-718-1724 jordan@regexlab.com NA
+http://www.university.edu/c/968 jordan@datahub.edu
+alex@regexlab.net
+http://regexlab.net/c/219 jordan@datahub.org
+http://www.regexlab.net/c/40 #REGEX
+https://www.example.edu/c/890
+http://datahub.org/c/748 taylor@example.edu
+661-799-2842
+http://datahub.org/c/773 alex@datahub.org
+403-441-4498 https://datahub.com/b/608
+651-547-2459 https://www.university.com/c/850
+ok
+160-502-1006 taylor@regexlab.com
+http://www.datahub.com/b/625 FLAG
+kay@datahub.net
+422-107-4521 https://www.regexlab.edu/c/742 alex@datahub.edu
+https://example.edu/c/323
+taylor@university.org
+446-577-1995 https://www.regexlab.net/a/482
+602-339-6897 alex@university.com
+496-857-8328 #WINS
+461-167-5463 ALERT
+ok
+https://www.university.com/a/81 NOTICE
+634-821-6893 NA
+187-515-2507 sam@university.net #STAY
+https://regexlab.net/c/599
+http://datahub.edu/c/555 sam@datahub.net NOTICE
+803-876-4907 #IT
+sam@datahub.com
+http://datahub.edu/b/426 kay@datahub.net
+195-568-4613 https://www.regexlab.edu/a/210 999
+ok
+http://www.example.edu/c/840 taylor@university.edu 999
+jordan@regexlab.edu
+390-147-2869 kay@regexlab.edu
+104-597-8244
+http://example.net/b/280
+425-961-7904
+159-609-4188
+taylor@example.net #REGEX
+237-207-5902 http://www.datahub.edu/a/547 alex@university.org
+ok
+sam@example.net NOTICE
+262-751-2561 https://www.datahub.edu/b/107 taylor@example.com
+381-268-6891 sam@university.com
+ok
+ok
+https://datahub.com/c/763 sam@datahub.edu
+222-453-7722 taylor@example.com
+750-396-7307
+893-898-8044 jordan@example.edu
+http://university.com/a/740 sam@example.edu
+http://datahub.edu/a/110 taylor@regexlab.org
+http://example.net/b/441 alex@regexlab.com
+Unknown
+374-349-6065 #DATA
+alex@regexlab.edu
+https://regexlab.com/c/161 alex@datahub.edu #DATA
+https://regexlab.net/a/153 taylor@example.net
+https://regexlab.net/a/194
+Contact: help(at)example(dot)org #notQuiteAnEmail
+Edge phone: (801) 245-6789 (not our pattern)
