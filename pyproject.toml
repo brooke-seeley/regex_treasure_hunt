@@ -1,0 +1,10 @@
+[project]
+name = "regex-treasurehunt"
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
+    "pandas>=3.0.1",
+]
